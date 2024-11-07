@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Peggy (a.k.a @dusengepeggy)!
 
 👩‍💻 **About Me:**
-- 🌱 Currently diving deep into **Blockchain** and its incredible potential!
+- 🌱 Currently learning **Blockchain** and its incredible good!
 - 👀 Backend development is my playground – I’m fascinated by building solid, scalable systems.
 - 💞️ Open to collaborating on anything challenging, from problem-solving to cutting-edge projects.
   
@@ -17,7 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
